@@ -17,3 +17,6 @@ https://www.aliexpress.com/i/4000251359842.html
 # 参考にしたページ
 点群データをシリアルから読み取るコードを書くにあたって参考にしました。感謝です。
 - https://ameblo.jp/sy-eng/entry-12597655892.html
+
+# ライセンス
+Please see [LICENSE](https://github.com/henjin0/LIDAR_M1C1_mini_python_loder/blob/main/LICENSE).
